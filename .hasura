@@ -1,0 +1,10 @@
+clusters:
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: hasura
+  data: null
+  kubeContext: cyan30
+  name: cyan30
+defaultCluster: hasura
+isQuickStart: ""
