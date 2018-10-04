@@ -45,6 +45,7 @@ Open your app and head to the different example routes:
 ```
 # Open your app in a browser
 $ hasura microservice open app
+# lskdjflkj
 
 # Head to any of these URLs on the app
 /examples/data
