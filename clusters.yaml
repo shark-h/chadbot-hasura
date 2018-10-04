@@ -4,3 +4,4 @@ clusters:
   infra:
     provider: hasura-free
 version: v1
+# update it please
