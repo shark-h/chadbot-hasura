@@ -30,7 +30,7 @@
 
 ## Adding backend features
 
-This section will help you bootstrap some backend features using Hasura. If you want to continue vanilla python development, you can skip this section.
+This section will help you aasbootstrap some backend features using Hasura. If you want to continue vanilla python development, you can skip this section.
 
 Hasura makes it easy to add backend features to your python apps.
 - Add auth using an inbuilt UI or APIs for username, email-verification, mobile-otp, social login.
