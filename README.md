@@ -28,7 +28,7 @@
 * Commit the changes, and run `git push hasura master` to deploy the changes.
 
 
-## Adding backend features
+## Adding backeasand features
 
 This section will help you bootstrap some backend features using Hasura. If you want to continue vanilla python development, you can skip this section.
 
