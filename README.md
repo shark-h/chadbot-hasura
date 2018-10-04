@@ -77,6 +77,7 @@ $ hasura microservice list
 
 # get logs for app
 $ hasura microservice logs app
+#testing
 ```
 
 ## Adding dependencies
